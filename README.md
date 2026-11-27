@@ -57,8 +57,8 @@ Every notebook runs in Google Colab: open it on GitHub and click **Open in Colab
 To run locally:
 
 ```bash
-git clone https://github.com/sarim0704/cv.git
-cd cv
+git clone https://github.com/sarim0704/classical-computer-vision-opencv.git
+cd classical-computer-vision-opencv
 pip install -r requirements.txt
 jupyter notebook
 ```
