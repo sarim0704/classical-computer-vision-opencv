@@ -9,7 +9,7 @@ Hands-on implementations of core image processing and geometric vision technique
 
 Coursework for Computer Vision, BSCS at Air University (Kharian Campus), Fall 2026.
 
-> Deep learning work (CNNs, transfer learning, YOLO) is in the companion repo: [deep-learning-computer-vision](https://github.com/sarim0704/cv2).
+> Deep learning work (CNNs, transfer learning, YOLO) is in the companion repo: [deep-learning-computer-vision](https://github.com/sarim0704/deep-learning-computer-vision).
 
 ## Projects
 
